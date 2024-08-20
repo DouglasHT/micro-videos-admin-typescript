@@ -1,7 +1,7 @@
 {
   "name": "micro-videos-admin",
   "version": "1.0.0",
-  "description": "Repetir para as outras entidades Cast member, Genre, Video",
+  "description": "Repetir para as outras entidades Cast member, Genre, Video .",
   "main": "index.js",
   "scripts": {
     "test": "jest"
