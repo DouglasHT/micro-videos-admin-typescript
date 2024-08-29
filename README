@@ -1,0 +1,2 @@
+#COMMAND TO ACCESS CONTAINER
+docker compose app bash
